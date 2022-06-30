@@ -1,7 +1,7 @@
 {
   "name": "strona_zpi",
   "version": "0.1.0",
-  "homepage": "https://adrian00pl.github.io/StronaZpi.git",
+  "homepage": "https://adrian00pl.github.io/StronaZpi",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
