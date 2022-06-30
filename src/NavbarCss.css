@@ -1,0 +1,45 @@
+
+.navbar_items{
+    background: rgb(2,0,36);
+    width: 100%;
+    height: auto;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+
+.navbar_brand{
+    display: flex;
+    cursor: pointer;
+}
+
+.navbar_links{
+    display: grid;
+    grid-template-columns: repeat(10,auto);
+    text-align: center;
+}
+.drop{
+    top: 92%;
+    position: absolute;
+    padding: 0%;
+    background-color: #353535;
+    border-radius: 5px;
+    text-align: start;
+}
+li{
+    list-style: none;
+    
+}
+.navbar_links a {
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    color: white;
+    font-size: 18px;
+    line-height: 28px;
+    padding: 20px;
+}
