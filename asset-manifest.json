@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stronazpi/static/css/main.94e42478.css",
+    "main.css": "/stronazpi/static/css/main.b6b20819.css",
     "main.js": "/stronazpi/static/js/main.924f989c.js",
     "static/js/787.32c5d65e.chunk.js": "/stronazpi/static/js/787.32c5d65e.chunk.js",
     "static/media/telefon.png": "/stronazpi/static/media/telefon.c591464adae2f8140941.png",
@@ -8,12 +8,12 @@
     "static/media/person.png": "/stronazpi/static/media/person.c8b4a340dd7340498693.png",
     "static/media/logo.svg": "/stronazpi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/stronazpi/index.html",
-    "main.94e42478.css.map": "/stronazpi/static/css/main.94e42478.css.map",
+    "main.b6b20819.css.map": "/stronazpi/static/css/main.b6b20819.css.map",
     "main.924f989c.js.map": "/stronazpi/static/js/main.924f989c.js.map",
     "787.32c5d65e.chunk.js.map": "/stronazpi/static/js/787.32c5d65e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94e42478.css",
+    "static/css/main.b6b20819.css",
     "static/js/main.924f989c.js"
   ]
 }
