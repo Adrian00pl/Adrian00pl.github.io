@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/stronazpi/static/css/main.b6b20819.css",
-    "main.js": "/stronazpi/static/js/main.448a8d48.js",
+    "main.js": "/stronazpi/static/js/main.fd624df0.js",
     "static/js/787.32c5d65e.chunk.js": "/stronazpi/static/js/787.32c5d65e.chunk.js",
+    "static/media/My Car Manager - dokumentacja.pdf": "/stronazpi/static/media/My Car Manager - dokumentacja.492e877489a33b8a8ab9.pdf",
     "static/media/telefon.png": "/stronazpi/static/media/telefon.c591464adae2f8140941.png",
     "static/media/Raport semestralny 1.pdf": "/stronazpi/static/media/Raport semestralny 1.4e005a5d6db2bd7c1445.pdf",
     "static/media/Raport semestralny 2.pdf": "/stronazpi/static/media/Raport semestralny 2.7273a1a49d1b7a53b0ae.pdf",
@@ -10,11 +11,11 @@
     "static/media/logo.svg": "/stronazpi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/stronazpi/index.html",
     "main.b6b20819.css.map": "/stronazpi/static/css/main.b6b20819.css.map",
-    "main.448a8d48.js.map": "/stronazpi/static/js/main.448a8d48.js.map",
+    "main.fd624df0.js.map": "/stronazpi/static/js/main.fd624df0.js.map",
     "787.32c5d65e.chunk.js.map": "/stronazpi/static/js/787.32c5d65e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6b20819.css",
-    "static/js/main.448a8d48.js"
+    "static/js/main.fd624df0.js"
   ]
 }
